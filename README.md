@@ -12,6 +12,16 @@ Godot 学习项目仓库，基于 [官方文档](https://docs.godotengine.org/zh
 scoop install godot
 ```
 
+### Godot 引擎
+
+- [Godot 下载](https://godotengine.org/download/archive)
+
+### .NET 运行时
+
+Godot 某些功能需要 .NET 运行时，下载地址：
+
+- [.NET 下载](https://dotnet.microsoft.com/zh-cn/download/dotnet)
+
 ## 学习资源
 
 - [官方文档](https://docs.godotengine.org/zh-cn)
