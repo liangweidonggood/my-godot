@@ -23,3 +23,7 @@ scoop install godot
 - [GunfireDungeon](https://github.com/xlljc/GunfireDungeon) - 枪地牢
 - [Godot-Racing-Game](https://github.com/alexpuente00/Godot-Racing-Game) - Godot 赛车游戏
 - [Endless-Jump](https://github.com/alexgreze/Endless-Jump) - 无限跳跃
+
+## 开发工具
+
+- [Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Claude Code 游戏工作室
