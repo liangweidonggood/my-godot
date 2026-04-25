@@ -1,0 +1,20 @@
+# Godot
+.godot/
+import/
+*.godot
+*.import
+
+# Build
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.vscode/
+.idea/
+*.code-workspace
