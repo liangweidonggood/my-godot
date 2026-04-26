@@ -1,7 +1,4 @@
-# Godot
-.godot/
-.import/
-*.godot
+**/.godot
 *.import
 build/
 dist/
