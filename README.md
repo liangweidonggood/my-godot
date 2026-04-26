@@ -4,7 +4,7 @@ Godot 学习项目仓库，基于 [官方文档](https://docs.godotengine.org/zh
 
 ## 子项目
 
-- [2d-1](./2d-1/) - 2D 游戏项目
+- [2d-1-dodge_the_creeps](./2d-1-dodge_the_creeps/) - 2D 游戏项目（Dodge the Creeps）
 
 ## 环境安装
 
