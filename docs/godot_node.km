@@ -1,0 +1,2602 @@
+{
+    "root": {
+        "data": {
+            "id": "di3ld88wkkg0",
+            "created": 1777257961735,
+            "text": "Node"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "di3ldq1euug0",
+                    "created": 1777258000464,
+                    "text": " AnimationMixer",
+                    "layout": null,
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3lg7mcml40",
+                            "created": 1777258195464,
+                            "text": " AnimationPlayer",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lgajdv6g0",
+                            "created": 1777258201815,
+                            "text": "AnimationTree",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3ldx55gj40",
+                    "created": 1777258015928,
+                    "text": " AudioStreamPlayer",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3le48mrhk0",
+                    "created": 1777258031376,
+                    "text": "CanvasItem",
+                    "layout": null,
+                    "expandState": "collapse",
+                    "background": "#c00000"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3lh7kxkbk0",
+                            "created": 1777258273742,
+                            "text": " Control",
+                            "layout": null,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3lhl9rvps0",
+                                    "created": 1777258303542,
+                                    "text": "BaseButton",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3lsqpcmlc0",
+                                            "created": 1777259177374,
+                                            "text": " Button",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3lt9dgl9c0",
+                                                    "created": 1777259218014,
+                                                    "text": " CheckBox",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3lth6h8mo0",
+                                                    "created": 1777259235006,
+                                                    "text": "CheckButton",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3ltjgxbsg0",
+                                                    "created": 1777259239991,
+                                                    "text": "ColorPickerButton",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3ltl6kyq00",
+                                                    "created": 1777259243719,
+                                                    "text": "MenuButton",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3ltn0zamo0",
+                                                    "created": 1777259247734,
+                                                    "text": "OptionButton",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lsuu2cyo0",
+                                            "created": 1777259186366,
+                                            "text": "LinkButton",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lsyd8uy00",
+                                            "created": 1777259194056,
+                                            "text": "TextureButton",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3li3r03sw0",
+                                    "created": 1777258343766,
+                                    "text": "ColorRect",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3li611pt40",
+                                    "created": 1777258348727,
+                                    "text": "Container",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3lvrd8bzs0",
+                                            "created": 1777259413910,
+                                            "text": "AspectRatioContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lw466sco0",
+                                            "created": 1777259441783,
+                                            "text": "BoxContainer",
+                                            "expandState": "collapse",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3lx18ein40",
+                                                    "created": 1777259513750,
+                                                    "text": " HBoxContainer",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3lxdgph880",
+                                                            "created": 1777259540374,
+                                                            "text": " EditorResourcePicker",
+                                                            "layout": null
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "di3lxtxkdx40",
+                                                                    "created": 1777259576222,
+                                                                    "text": " EditorScriptPicker",
+                                                                    "layout": null
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3lxjvgs6o0",
+                                                            "created": 1777259554327,
+                                                            "text": "EditorToaster",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3lxnpb40w0",
+                                                            "created": 1777259562662,
+                                                            "text": "OpenXRInteractionProfileEditorBase",
+                                                            "layout": null
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "di3ly4xfrj40",
+                                                                    "created": 1777259600159,
+                                                                    "text": " OpenXRInteractionProfileEditor",
+                                                                    "layout": null
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3lx5bndhc0",
+                                                    "created": 1777259522654,
+                                                    "text": "VBoxContainer",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3lygd5upc0",
+                                                            "created": 1777259625054,
+                                                            "text": " ColorPicker",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3lyk8qoio0",
+                                                            "created": 1777259633494,
+                                                            "text": "ScriptEditorBase",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lw6bb0zs0",
+                                            "created": 1777259446446,
+                                            "text": "CenterContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lw8g1j4g0",
+                                            "created": 1777259451086,
+                                            "text": "EditorProperty",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwa729xc0",
+                                            "created": 1777259454896,
+                                            "text": "FlowContainer",
+                                            "expandState": "collapse",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3lz33lso80",
+                                                    "created": 1777259674542,
+                                                    "text": "HFlowContainer",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3lz6m30vc0",
+                                                    "created": 1777259682190,
+                                                    "text": "VFlowContainer",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwcbrrrc0",
+                                            "created": 1777259459535,
+                                            "text": "FoldableContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lweaxt7c0",
+                                            "created": 1777259463838,
+                                            "text": "GraphElement",
+                                            "expandState": "collapse",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3lzl6swug0",
+                                                    "created": 1777259713918,
+                                                    "text": " GraphFrame",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3lzo8m7ew0",
+                                                    "created": 1777259720558,
+                                                    "text": "GraphNode",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwg0gzts0",
+                                            "created": 1777259467558,
+                                            "text": "GridContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwhn2lzs0",
+                                            "created": 1777259471102,
+                                            "text": "MarginContainer",
+                                            "expandState": "collapse",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m02l9y5s0",
+                                                    "created": 1777259751798,
+                                                    "text": " EditorDock",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3m07g6cmo0",
+                                                            "created": 1777259762374,
+                                                            "text": " FileSystemDock",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwj9fnns0",
+                                            "created": 1777259474631,
+                                            "text": "PanelContainer",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m0q9zdaw0",
+                                                    "created": 1777259803358,
+                                                    "text": " OpenXRBindingModifierEditor",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3m0tyevug0",
+                                                    "created": 1777259811366,
+                                                    "text": "ScriptEditor",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwkwb5xc0",
+                                            "created": 1777259478191,
+                                            "text": "ScrollContainer",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m167nsjc0",
+                                                    "created": 1777259838046,
+                                                    "text": " EditorInspector",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwmkwi4w0",
+                                            "created": 1777259481855,
+                                            "text": "SplitContainer",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m4xyrbg00",
+                                                    "created": 1777260133550,
+                                                    "text": " HSplitContainer",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3m51iyocw0",
+                                                    "created": 1777260141302,
+                                                    "text": "VSplitContainer",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwoy95c00",
+                                            "created": 1777259487015,
+                                            "text": "SubViewportContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3lwqhxpzk0",
+                                            "created": 1777259490382,
+                                            "text": "TabContainer",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3li861z6g0",
+                                    "created": 1777258353383,
+                                    "text": "GraphEdit",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lia7gfuo0",
+                                    "created": 1777258357822,
+                                    "text": "ItemList",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3licqdfow0",
+                                    "created": 1777258363319,
+                                    "text": "Label",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lif1lazs0",
+                                    "created": 1777258368351,
+                                    "text": "LineEdit",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lihz5mco0",
+                                    "created": 1777258374734,
+                                    "text": "MenuBar",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lijztbgw0",
+                                    "created": 1777258379128,
+                                    "text": "NinePatchRect",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3liltoqnc0",
+                                    "created": 1777258383111,
+                                    "text": "Panel",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3linon8940",
+                                    "created": 1777258387159,
+                                    "text": "Range",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3m67pq9lk0",
+                                            "created": 1777260233136,
+                                            "text": " EditorSpinSlider",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m6f6ekps0",
+                                            "created": 1777260249382,
+                                            "text": "ProgressBar",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m6hib0tc0",
+                                            "created": 1777260254455,
+                                            "text": "ScrollBar",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m7117t6o0",
+                                                    "created": 1777260296958,
+                                                    "text": " HScrollBar",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3m767s26o0",
+                                                    "created": 1777260308238,
+                                                    "text": "VScrollBar",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m6jg990g0",
+                                            "created": 1777260258685,
+                                            "text": "Slider",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3m7g3f33c0",
+                                                    "created": 1777260329742,
+                                                    "text": " HSlider",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3m7jcmtwo0",
+                                                    "created": 1777260336830,
+                                                    "text": "VSlider",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m6lc5bxc0",
+                                            "created": 1777260262790,
+                                            "text": "SpinBox",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m6n15bxc0",
+                                            "created": 1777260266478,
+                                            "text": "TextureProgressBar",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lipvm8fc0",
+                                    "created": 1777258391934,
+                                    "text": "ReferenceRect",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lirvlpcg0",
+                                    "created": 1777258396287,
+                                    "text": "RichTextLabel",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3litsngrc0",
+                                    "created": 1777258400462,
+                                    "text": "Separator",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3m86yo5mw0",
+                                            "created": 1777260388229,
+                                            "text": " HSeparator",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3m8aenw9k0",
+                                            "created": 1777260395726,
+                                            "text": "VSeparator",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3livttqw00",
+                                    "created": 1777258404887,
+                                    "text": "TabBar",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lixh8aog0",
+                                    "created": 1777258408479,
+                                    "text": "TextEdit",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3m8mmprs80",
+                                            "created": 1777260422334,
+                                            "text": " CodeEdit",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3liz63iew0",
+                                    "created": 1777258412159,
+                                    "text": "TextureRect",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lj1sfkqg0",
+                                    "created": 1777258417863,
+                                    "text": "Tree",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lj3i7l740",
+                                    "created": 1777258421599,
+                                    "text": "VideoStreamPlayer",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lhblybf40",
+                            "created": 1777258282511,
+                            "text": "Node2D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3ljhik2yw0",
+                                    "created": 1777258452095,
+                                    "text": " AnimatedSprite2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkein9nk0",
+                                    "created": 1777258523934,
+                                    "text": "AudioListener2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkgl5bmo0",
+                                    "created": 1777258528439,
+                                    "text": "AudioStreamPlayer2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkiqe7k80",
+                                    "created": 1777258533110,
+                                    "text": "BackBufferCopy",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkl2t6600",
+                                    "created": 1777258538214,
+                                    "text": "Bone2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkn44ex40",
+                                    "created": 1777258542647,
+                                    "text": "Camera2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkp98qmw0",
+                                    "created": 1777258547310,
+                                    "text": "CanvasGroup",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkrf6r8w0",
+                                    "created": 1777258552023,
+                                    "text": "CanvasModulate",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lktkg1i00",
+                                    "created": 1777258556694,
+                                    "text": "CollisionObject2D",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3ma65q5940",
+                                            "created": 1777260543207,
+                                            "text": " Area2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3ma9afyyo0",
+                                            "created": 1777260550022,
+                                            "text": "PhysicsBody2D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3magbo33s0",
+                                                    "created": 1777260565334,
+                                                    "text": " CharacterBody2D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3makgwuuo0",
+                                                    "created": 1777260574358,
+                                                    "text": "RigidBody2D",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3matlb1v40",
+                                                            "created": 1777260594215,
+                                                            "text": " PhysicalBone2D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3malz5k1k0",
+                                                    "created": 1777260577638,
+                                                    "text": "StaticBody2D",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mb2a2waw0",
+                                                            "created": 1777260613127,
+                                                            "text": " AnimatableBody2D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkvpudl40",
+                                    "created": 1777258561374,
+                                    "text": "CollisionPolygon2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lkxyy16o0",
+                                    "created": 1777258566278,
+                                    "text": "CollisionShape2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3ll0exbzk0",
+                                    "created": 1777258571598,
+                                    "text": "CPUParticles2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3ll2k8a940",
+                                    "created": 1777258576272,
+                                    "text": "GPUParticles2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3ll5148n40",
+                                    "created": 1777258581647,
+                                    "text": "Joint2D",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mbsg7v5k0",
+                                            "created": 1777260670094,
+                                            "text": " DampedSpringJoint2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mbw8818g0",
+                                            "created": 1777260678318,
+                                            "text": "GrooveJoint2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mbxp9pa80",
+                                            "created": 1777260681526,
+                                            "text": "PinJoint2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3ll7a2gv40",
+                                    "created": 1777258586542,
+                                    "text": "Light2D",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mca2vik80",
+                                            "created": 1777260708470,
+                                            "text": " DirectionalLight2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mccw84lc0",
+                                            "created": 1777260714598,
+                                            "text": "PointLight2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3ll9jgjzk0",
+                                    "created": 1777258591463,
+                                    "text": "LightOccluder2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llbltads0",
+                                    "created": 1777258595959,
+                                    "text": "Line2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lldwrixs0",
+                                    "created": 1777258600975,
+                                    "text": "Marker2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llg5gn400",
+                                    "created": 1777258605854,
+                                    "text": "MeshInstance2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llifm7eo0",
+                                    "created": 1777258610822,
+                                    "text": "MultiMeshInstance2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lll9wukw0",
+                                    "created": 1777258617007,
+                                    "text": "NavigationLink2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llnyvqo00",
+                                    "created": 1777258622871,
+                                    "text": "NavigationObstacle2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llq9ow6o0",
+                                    "created": 1777258627878,
+                                    "text": "NavigationRegion2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llshvsk00",
+                                    "created": 1777258632727,
+                                    "text": "Parallax2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llul5h8w0",
+                                    "created": 1777258637278,
+                                    "text": "ParallaxLayer",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llwrv4h40",
+                                    "created": 1777258642038,
+                                    "text": "Path2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3llze3cfs0",
+                                    "created": 1777258647735,
+                                    "text": "PathFollow2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lm1f08rk0",
+                                    "created": 1777258652144,
+                                    "text": "Polygon2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lm3fmqlc0",
+                                    "created": 1777258656535,
+                                    "text": "RayCast2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lm6g3wsw0",
+                                    "created": 1777258663095,
+                                    "text": "RemoteTransform2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lm997buw0",
+                                    "created": 1777258669207,
+                                    "text": "ShapeCast2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmdspj680",
+                                    "created": 1777258679094,
+                                    "text": "Skeleton2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmfpruwg0",
+                                    "created": 1777258683270,
+                                    "text": "Sprite2D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmhtq2ag0",
+                                    "created": 1777258687862,
+                                    "text": "TileMap",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmjrugso0",
+                                    "created": 1777258692102,
+                                    "text": "TileMapLayer",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmlllqwg0",
+                                    "created": 1777258696079,
+                                    "text": "TouchScreenButton",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3lmn68tsg0",
+                                    "created": 1777258699503,
+                                    "text": "VisibleOnScreenNotifier2D",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3me1d696g0",
+                                            "created": 1777260846230,
+                                            "text": " VisibleOnScreenEnabler2D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3le92c0ps0",
+                    "created": 1777258041879,
+                    "text": "CanvasLayer",
+                    "layout": null,
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3lnc59ark0",
+                            "created": 1777258753863,
+                            "text": " ParallaxBackground",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3leibhbuo0",
+                    "created": 1777258062023,
+                    "text": "EditorFileSystem",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lemh8lxc0",
+                    "created": 1777258071078,
+                    "text": "EditorPlugin",
+                    "layout": null,
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3lnvhkmnk0",
+                            "created": 1777258795967,
+                            "text": " GridMapEditorPlugin",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3leq6vnnc0",
+                    "created": 1777258079159,
+                    "text": "EditorResourcePreview",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3leuym9bc0",
+                    "created": 1777258089543,
+                    "text": "HTTPRequest",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3leyj81jc0",
+                    "created": 1777258097319,
+                    "text": "InstancePlaceholder",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfbcayj40",
+                    "created": 1777258125199,
+                    "text": "MissingNode",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfdd2rfk0",
+                    "created": 1777258129599,
+                    "text": "MultiplayerSpawner",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lffbz2lc0",
+                    "created": 1777258133886,
+                    "text": "MultiplayerSynchronizer",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfhchbaw0",
+                    "created": 1777258138271,
+                    "text": "NavigationAgent2D",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfj8r5ds0",
+                    "created": 1777258142399,
+                    "text": "NavigationAgent3D",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfl9xe280",
+                    "created": 1777258146823,
+                    "text": "Node3D",
+                    "layout": null,
+                    "expandState": "expand",
+                    "background": "#c00000"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3loqvz5zs0",
+                            "created": 1777258864318,
+                            "text": " AudioListener3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpi6304g0",
+                            "created": 1777258923702,
+                            "text": "AudioStreamPlayer3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpk5xcqw0",
+                            "created": 1777258928046,
+                            "text": "BoneAttachment3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lplv7wzk0",
+                            "created": 1777258931752,
+                            "text": "Camera3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mfay1bg00",
+                                    "created": 1777260945446,
+                                    "text": " XRCamera3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpnpuvds0",
+                            "created": 1777258935782,
+                            "text": "CollisionObject3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mfikkadc0",
+                                    "created": 1777260962046,
+                                    "text": " Area3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mflievlc0",
+                                    "created": 1777260968446,
+                                    "text": "PhysicsBody3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mfte3pw00",
+                                            "created": 1777260985600,
+                                            "text": " CharacterBody3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mfyydy740",
+                                            "created": 1777260997710,
+                                            "text": "PhysicalBone3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mg0eiejk0",
+                                            "created": 1777261000862,
+                                            "text": "RigidBody3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mgaduj7k0",
+                                                    "created": 1777261022590,
+                                                    "text": " VehicleBody3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mg1yvmiw0",
+                                            "created": 1777261004270,
+                                            "text": "StaticBody3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mgjnrsls0",
+                                                    "created": 1777261042781,
+                                                    "text": " AnimatableBody3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lppp1iuo0",
+                            "created": 1777258940086,
+                            "text": "CollisionPolygon3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lprviq000",
+                            "created": 1777258944831,
+                            "text": "CollisionShape3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpugn1ls0",
+                            "created": 1777258950462,
+                            "text": "GridMap",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpwaj3480",
+                            "created": 1777258954446,
+                            "text": "ImporterMeshInstance3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lpy2amrs0",
+                            "created": 1777258958302,
+                            "text": "Joint3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mh2ne1ds0",
+                                    "created": 1777261084117,
+                                    "text": "ConeTwistJoint3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mh98me9c0",
+                                    "created": 1777261098461,
+                                    "text": "Generic6DOFJoint3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mharo24w0",
+                                    "created": 1777261101790,
+                                    "text": "HingeJoint3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mhckvs7c0",
+                                    "created": 1777261105733,
+                                    "text": "PinJoint3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mhe34v1k0",
+                                    "created": 1777261109013,
+                                    "text": "SliderJoint3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lq0g1dqg0",
+                            "created": 1777258963486,
+                            "text": "LightmapProbe",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lq54h30o0",
+                            "created": 1777258973671,
+                            "text": "Marker3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lq78nww80",
+                            "created": 1777258978278,
+                            "text": "NavigationLink3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lq93rtrk0",
+                            "created": 1777258982336,
+                            "text": "NavigationObstacle3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqb48uns0",
+                            "created": 1777258986718,
+                            "text": "NavigationRegion3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqcy0uz40",
+                            "created": 1777258990695,
+                            "text": "OpenXRCompositionLayer",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mi7j675c0",
+                                    "created": 1777261173110,
+                                    "text": " OpenXRCompositionLayerCylinder",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mic9zhnk0",
+                                    "created": 1777261183438,
+                                    "text": "OpenXRCompositionLayerEquirect",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3miecbvkg0",
+                                    "created": 1777261187934,
+                                    "text": "OpenXRCompositionLayerQuad",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqfle3340",
+                            "created": 1777258996462,
+                            "text": "OpenXRHand",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqhg2rlk0",
+                            "created": 1777259000494,
+                            "text": "OpenXRRenderModel",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqj8ssfs0",
+                            "created": 1777259004407,
+                            "text": "OpenXRRenderModelManager",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqlr179c0",
+                            "created": 1777259009863,
+                            "text": "Path3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqngxn5s0",
+                            "created": 1777259013606,
+                            "text": "PathFollow3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqp93zc00",
+                            "created": 1777259017487,
+                            "text": "RayCast3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqr10pps0",
+                            "created": 1777259021351,
+                            "text": "RemoteTransform3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqsoo45s0",
+                            "created": 1777259024958,
+                            "text": "ShapeCast3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lquifn3k0",
+                            "created": 1777259028935,
+                            "text": "Skeleton3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqwa6xgg0",
+                            "created": 1777259032790,
+                            "text": "SkeletonModifier3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mj9yjmbs0",
+                                    "created": 1777261256757,
+                                    "text": " BoneConstraint3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mk6kdjvs0",
+                                            "created": 1777261327734,
+                                            "text": " AimModifier3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mkbff3i00",
+                                            "created": 1777261338318,
+                                            "text": "ConvertTransformModifier3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mkcqkrvc0",
+                                            "created": 1777261341170,
+                                            "text": "CopyTransformModifier3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjjvxcqw0",
+                                    "created": 1777261278367,
+                                    "text": "BoneTwistDisperser3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjln5tjk0",
+                                    "created": 1777261282190,
+                                    "text": "IKModifier3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mks34zmw0",
+                                            "created": 1777261374581,
+                                            "text": "ChainIK3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mkz3zkwo0",
+                                                    "created": 1777261389870,
+                                                    "text": " IterateIK3D",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3ml85bqww0",
+                                                            "created": 1777261409542,
+                                                            "text": " CCDIK3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mlck874o0",
+                                                            "created": 1777261419150,
+                                                            "text": "FABRIK3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mldtl4940",
+                                                            "created": 1777261421893,
+                                                            "text": "JacobianIK3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3ml1v317c0",
+                                                    "created": 1777261395862,
+                                                    "text": "SplineIK3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mkuop6c00",
+                                            "created": 1777261380238,
+                                            "text": "TwoBoneIK3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjn988ko0",
+                                    "created": 1777261285701,
+                                    "text": "LimitAngularVelocityModifier3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjoycwlk0",
+                                    "created": 1777261289397,
+                                    "text": "LookAtModifier3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjqigqpk0",
+                                    "created": 1777261292790,
+                                    "text": "ModifierBoneTarget3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjs84au80",
+                                    "created": 1777261296518,
+                                    "text": "PhysicalBoneSimulator3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjtshz340",
+                                    "created": 1777261299927,
+                                    "text": "RetargetModifier3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjw2hqi80",
+                                    "created": 1777261304885,
+                                    "text": "SkeletonIK3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjxrhmu80",
+                                    "created": 1777261308573,
+                                    "text": "SpringBoneSimulator3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mmkem2io0",
+                                            "created": 1777261514589,
+                                            "text": " SpringBoneCollisionCapsule3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mmqhuq9c0",
+                                            "created": 1777261527846,
+                                            "text": "SpringBoneCollisionPlane3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mms1ytgo0",
+                                            "created": 1777261531239,
+                                            "text": "SpringBoneCollisionSphere3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mjzg8gts0",
+                                    "created": 1777261312246,
+                                    "text": "XRBodyModifier3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mk0veuz40",
+                                    "created": 1777261315341,
+                                    "text": "XRHandModifier3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lqy5amsw0",
+                            "created": 1777259036847,
+                            "text": "SpringArm3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr03054w0",
+                            "created": 1777259041062,
+                            "text": "SpringBoneCollision3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr1yiqrs0",
+                            "created": 1777259045145,
+                            "text": "VehicleWheel3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr3pcdug0",
+                            "created": 1777259048943,
+                            "text": "VisualInstance3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mndofimg0",
+                                    "created": 1777261578309,
+                                    "text": "Decal",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnovox0g0",
+                                    "created": 1777261602693,
+                                    "text": "FogVolume",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnqka9co0",
+                                    "created": 1777261606357,
+                                    "text": "GeometryInstance3D",
+                                    "layout": null,
+                                    "expandState": "collapse"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mok925tc0",
+                                            "created": 1777261670981,
+                                            "text": " CPUParticles3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mor1kkp40",
+                                            "created": 1777261685766,
+                                            "text": "CSGShape3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mp7cm26o0",
+                                                    "created": 1777261721262,
+                                                    "text": "CSGCombiner3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3mpabx3ew0",
+                                                    "created": 1777261727751,
+                                                    "text": "CSGPrimitive3D",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mphpg7ww0",
+                                                            "created": 1777261743806,
+                                                            "text": " CSGBox3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mpmj137c0",
+                                                            "created": 1777261754302,
+                                                            "text": "CSGCylinder3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mpnuncxk0",
+                                                            "created": 1777261757181,
+                                                            "text": "CSGMesh3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mpp7c8y00",
+                                                            "created": 1777261760126,
+                                                            "text": "CSGPolygon3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mpqnq20o0",
+                                                            "created": 1777261763293,
+                                                            "text": "CSGSphere3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mpryyqts0",
+                                                            "created": 1777261766150,
+                                                            "text": "CSGTorus3D",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3moswdaag0",
+                                            "created": 1777261689805,
+                                            "text": "GPUParticles3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mouermoo0",
+                                            "created": 1777261693094,
+                                            "text": "Label3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3movxnxk00",
+                                            "created": 1777261696414,
+                                            "text": "MeshInstance3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mqle29i80",
+                                                    "created": 1777261830189,
+                                                    "text": " SoftBody3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3moxcum1s0",
+                                            "created": 1777261699509,
+                                            "text": "MultiMeshInstance3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3moyrpse80",
+                                            "created": 1777261702585,
+                                            "text": "SpriteBase3D",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mqtiq2wo0",
+                                                    "created": 1777261847885,
+                                                    "text": " AnimatedSprite3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3mqwqmuqg0",
+                                                    "created": 1777261854894,
+                                                    "text": "Sprite3D",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnscbozs0",
+                                    "created": 1777261610229,
+                                    "text": "GPUParticlesAttractor3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mr8vw2fs0",
+                                            "created": 1777261881333,
+                                            "text": " GPUParticlesAttractorBox3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mre60xfc0",
+                                            "created": 1777261892830,
+                                            "text": "GPUParticlesAttractorSphere3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3mrflc85k0",
+                                            "created": 1777261895933,
+                                            "text": "GPUParticlesAttractorVectorField3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnu2daow0",
+                                    "created": 1777261613981,
+                                    "text": "GPUParticlesCollision3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mrwoujlk0",
+                                            "created": 1777261933150,
+                                            "text": " GPUParticlesCollisionBox3D",
+                                            "layout": null
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3ms1839tc0",
+                                            "created": 1777261943021,
+                                            "text": "GPUParticlesCollisionHeightField3D"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3ms2lbkhs0",
+                                            "created": 1777261945997,
+                                            "text": "GPUParticlesCollisionSDF3D"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3ms43yi000",
+                                            "created": 1777261949301,
+                                            "text": "GPUParticlesCollisionSphere3D"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnvp8u3c0",
+                                    "created": 1777261617541,
+                                    "text": "Light3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3msjmtzco0",
+                                            "created": 1777261983094,
+                                            "text": " DirectionalLight3D"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3msnh757c0",
+                                            "created": 1777261991461,
+                                            "text": "OmniLight3D"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "di3msouflhc0",
+                                            "created": 1777261994438,
+                                            "text": "SpotLight3D"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnx3njds0",
+                                    "created": 1777261620589,
+                                    "text": "LightmapGI",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mnz07cps0",
+                                    "created": 1777261624734,
+                                    "text": "OccluderInstance3D",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mo0izgmw0",
+                                    "created": 1777261628046,
+                                    "text": "OpenXRVisibilityMask",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mo27ubmo0",
+                                    "created": 1777261631726,
+                                    "text": "ReflectionProbe",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mo3qm4y00",
+                                    "created": 1777261635038,
+                                    "text": "RootMotionView",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mo55508g0",
+                                    "created": 1777261638093,
+                                    "text": "VisibleOnScreenNotifier3D",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mtbhkpsw0",
+                                            "created": 1777262043726,
+                                            "text": " VisibleOnScreenEnabler3D"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mo6tcaj40",
+                                    "created": 1777261641733,
+                                    "text": "VoxelGI",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr5lvj6g0",
+                            "created": 1777259053087,
+                            "text": "XRFaceModifier3D",
+                            "layout": null
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr7204iw0",
+                            "created": 1777259056239,
+                            "text": "XRNode3D",
+                            "layout": null,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mtu3jo7s0",
+                                    "created": 1777262084237,
+                                    "text": " XRAnchor3D"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mtxtzebc0",
+                                    "created": 1777262092366,
+                                    "text": "XRController3D"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "di3lr9uj9y80",
+                            "created": 1777259062318,
+                            "text": "XROrigin3D",
+                            "layout": null
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3lfna19s00",
+                    "created": 1777258151183,
+                    "text": "ResourcePreloader",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfpf61tc0",
+                    "created": 1777258155847,
+                    "text": "ShaderGlobalsOverride",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfrg77mg0",
+                    "created": 1777258160263,
+                    "text": "StatusIndicator",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfte1vv40",
+                    "created": 1777258164487,
+                    "text": "Timer",
+                    "layout": null
+                },
+                "children": []
+            },
+            {
+                "data": {
+                    "id": "di3lfvkwbyo0",
+                    "created": 1777258169255,
+                    "text": "Viewport",
+                    "layout": null,
+                    "expandState": "collapse"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "di3muxe5rs00",
+                            "created": 1777262169773,
+                            "text": " SubViewport"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "di3mv0z5mw80",
+                            "created": 1777262177573,
+                            "text": "Window"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "di3mv9hkj4g0",
+                                    "created": 1777262196101,
+                                    "text": "AcceptDialog"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "di3mvg9y5y00",
+                                            "created": 1777262210877,
+                                            "text": " ConfirmationDialog"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "di3mvk5y2c00",
+                                                    "created": 1777262219342,
+                                                    "text": " EditorCommandPalette"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3mvowcork0",
+                                                    "created": 1777262229646,
+                                                    "text": "FileDialog"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "di3mw48uceg0",
+                                                            "created": 1777262263053,
+                                                            "text": "EditorFileDialog"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "di3mvqfn0sw0",
+                                                    "created": 1777262232989,
+                                                    "text": "ScriptCreateDialog"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "di3mvbth6y00",
+                                    "created": 1777262201174,
+                                    "text": "Popup"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "di3lfxnrn340",
+                    "created": 1777258173782,
+                    "text": "WorldEnvironment",
+                    "layout": null
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "right",
+    "theme": "fresh-green",
+    "version": "1.4.43"
+}
